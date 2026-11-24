@@ -32,6 +32,9 @@ data/
 ```
 
 For a double-click check, open `data/` in File Explorer and confirm every exact filename. One of the large CSV files has tens of millions of rows; loading may require substantial storage and time.
+<img width="775" height="470" alt="home page" src="https://github.com/user-attachments/assets/db4cbe2f-d399-44b6-8b65-92f353e2532e" />
+
+<img width="843" height="470" alt="deep  dive" src="https://github.com/user-attachments/assets/4d6aa99c-98b2-4b86-8d59-1f79c7d069e8" />
 
 ## 2. Set up PostgreSQL on Windows
 
