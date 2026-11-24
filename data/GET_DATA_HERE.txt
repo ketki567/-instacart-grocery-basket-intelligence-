@@ -1,0 +1,4 @@
+Download from https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis
+Or https://www.kaggle.com/competitions/instacart-market-basket-analysis/data
+Expected: orders.csv, order_products__prior.csv, order_products__train.csv, products.csv, aisles.csv, departments.csv
+Unzip directly into this folder. Large CSV files are intentionally excluded from GitHub.
